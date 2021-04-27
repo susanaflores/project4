@@ -6,7 +6,7 @@
 
 ### Visual Designer: Susana Flores
 
-### Topic: Disney Princesses
+### Topic: Marvel
 
 #### Ontology: 
 
