@@ -6,7 +6,7 @@
 
 ### Visual Designer: Susana Flores
 
-### Topic: Marvel
+### Topic: The Avengers (Focus on the movies)
 
 #### Ontology: 
 
