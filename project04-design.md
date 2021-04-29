@@ -10,13 +10,19 @@
 - Movie Poster Images will link to their respective pages
 - Footer will be at the end of the page
 
+![Home Layout](homelayout.png) 
+
 ### Pages
 - Same banner and navigation elements at the top of the pages
 - Under navigation element is the title of the movie
 - Overview will be at the top of the page and contain movie poster, header, and text
-- Next element is a section on the plot, will contain a header and text
-- Grid will separate the next two sections, a trailer and a table of awards won
-- Bottom of the page is characters which will be a slideshow of images along with descriptions
+	- This is to put the most informative text where users will immediately see it
+- Grid will separate the next two sections, one section of text describing the plot on the right taking up 2/3 of the page, will contain a header and text
+- Beside it on the left is a slideshow of lead characters in the movie
+	- Users can reference the character list as they read the storyline
+- Video of movie trailer will be at the bottom of the page
+
+![Pages Layout](pageslayout.png) 
 
 ## Color Palette
 - Color palette will include reds, blues, grey, black and white
