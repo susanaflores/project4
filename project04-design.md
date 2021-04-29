@@ -34,6 +34,7 @@
 	- font-family: 'Josefin Sans', sans-serif;
 
 ## Images
+- Movie Posters
 
 ![Avengers Movie Poster](avengers1.jpg) 
 ![Avengers Age of Ultron Movie Poster](avengers2.jpg) 
