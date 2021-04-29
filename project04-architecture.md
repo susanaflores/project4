@@ -14,24 +14,21 @@
 - Movie has a plot 
 - Movie has a trailer
 - Movie has characters 
-- Movie has awards
 
 #### Taxonomy:
 
 - Movie Name 
   - Overview 
     - Plot 
+    - Characters 
+      - Character Photo
+      - Character Name 
+      - Actor Name 
     - Trailer
-  - Characters 
-    - Character Photo
-    - Character Name 
-    - Actor Name 
-  - Awards
-    - Awards Won 
 
 #### Choreography: 
 
-The method that will be used is category. Each movie will have the three categories[ Overview, Characters, Awards] with their respective sub-categories. The sub-categories under overview are plot and trailer. The character category will have the character's photo, name, and the actor's name. The last category will be awards. We will be making a table with the awards they've won. 
+The method that will be used is category. Each movie will have the two categories[(Overview and Trailer]. The sub-categories under overview are plot and characters. The character sub-category will have the character's photo, name, and the actor's name. The trailer is on it's own. It will just be a video. 
 
 
 
