@@ -10,7 +10,7 @@
 - Movie Poster Images will link to their respective pages
 - Footer will be at the end of the page
 
-![Home Layout](homelayout.png) 
+![Home Layout](homelayout.jpg) 
 
 ### Pages
 - Same banner and navigation elements at the top of the pages
@@ -22,7 +22,7 @@
 	- Users can reference the character list as they read the storyline
 - Video of movie trailer will be at the bottom of the page
 
-![Pages Layout](pageslayout.png) 
+![Pages Layout](pageslayout.jpg) 
 
 ## Color Palette
 - Color palette will include reds, blues, grey, black and white
