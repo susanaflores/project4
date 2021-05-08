@@ -1,5 +1,5 @@
 body {
-	background-color: #f2f3f5;
+	background-color: #d7dadb;
 }
 
 header {
@@ -7,13 +7,17 @@ header {
 	padding-bottom: 15px;
 	margin-bottom: 15px; 
 	text-align: center;
-	background-color: #ba3511;
+	background-color: #c72020;
 	font-family: 'Bebas Neue', cursive;
 }
 
 h1 {
 	color: white;
-	font-size: 90px;
+	font-size: 65px;
+}
+
+.title {
+	font-size: 100px;
 }
 
 p {
@@ -48,4 +52,9 @@ footer a {
 section {
 	margin-top: 20px;
 	margin-bottom: 20px;
+}
+
+img: hover {
+	opacity: 0.5;
+
 }
