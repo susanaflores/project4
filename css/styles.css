@@ -3,11 +3,21 @@ body {
 }
 
 header {
-	padding: 15px 15px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	margin-bottom: 15px; 
 	text-align: center;
-	color: white;
 	background-color: #ba3511;
+	font-family: 'Bebas Neue', cursive;
+}
+
+h1 {
+	color: white;
+	font-size: 90px;
+}
+
+p {
+	font-family: 'Poppins', sans-serif;
 }
 
 nav {
@@ -18,6 +28,8 @@ nav {
 
 nav a {
 	text-decoration: none;
+	font-family: 'Poppins', sans-serif;
+	letter-spacing: 1pt;
 }
 
 footer {
@@ -30,7 +42,7 @@ footer p {
 
 footer a {
 	text-decoration: none;
-	
+
 }
 
 section {
