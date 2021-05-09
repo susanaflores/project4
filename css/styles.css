@@ -25,6 +25,13 @@ a {
 	color:#518cca;
 }
 
+h3{
+	background-color:#951E22;
+	color:white; 
+	padding-left:10px;
+	text-align: center;
+}
+
 .posters:hover{
 	opacity:0.5;
 }
