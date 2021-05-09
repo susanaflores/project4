@@ -25,6 +25,10 @@ a {
 	color:#518cca;
 }
 
+a:hover{
+	color:#951E22;
+}
+
 h3{
 	background-color:#951E22;
 	color:white; 
